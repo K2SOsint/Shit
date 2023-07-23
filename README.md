@@ -1,11 +1,11 @@
-# Scrape-Html-Into-A-Textfile (S.H.I.T.)
+# Scrape-Html-Into-A-Text-file (S.H.I.T.)
 
 <p align="center">
 <img src="https://k2sosint.com/images/ShiPo1.png" width="300">
 </p>
 
-A small python script for scraping HTML code of a webpage into a textfile.
-When the scrape is finished you can search the contents of the textfile for a certain word or piece of code.
+A small Python 3 script for scraping HTML code of a webpage into a text-file.
+When the scrape is finished you can search the contents of the text-file for a certain word or piece of code.
 Please note that searching is case-sensitive!
 
 Use this script with regards to the Terms of Service of websites.
