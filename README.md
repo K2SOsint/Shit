@@ -14,7 +14,7 @@ Use this script with regards to the Terms of Service of websites.
 
 ```
 cd Downloads
-git clone https://github.com/K2SOsint/shit && cd shit
+git clone https://github.com/K2SOsint/Shit && cd Shit
 pip3 install -r requirements.txt
 ```
 ### 👨‍💻 Usage
