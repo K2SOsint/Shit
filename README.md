@@ -1,7 +1,7 @@
 # Scrape-Html-Into-A-Textfile (S.H.I.A.T.)
 
 <p align="center">
-<img src="https://k2sosint.com/images/ShiPo.png" width="320">
+
 </p>
 
 A small python script for scraping HTML code of a webpage into a textfile.
