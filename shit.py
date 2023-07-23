@@ -1,7 +1,7 @@
 import requests
 import sys
 
-print("\n\033[36mWelcome to Scrape-Html-Into-A-Textfile (S.H.I.T.)\033[0m")
+print("\n\033[36mWelcome to Scrape-Html-Into-A-Text-file (S.H.I.T.)\033[0m")
 
 banner = f'''
 {"="*70}
