@@ -1,4 +1,4 @@
-# Scrape-Html-Into-A-Textfile (S.H.I.A.T.)
+# Scrape-Html-Into-A-Textfile (S.H.I.T.)
 
 <p align="center">
 <img src="https://k2sosint.com/images/ShiPo1.png" width="300">
@@ -14,11 +14,11 @@ Use this script with regards to the Terms of Service of websites.
 
 ```
 cd Downloads
-git clone https://github.com/K2SOsint/shiat && cd shiat
+git clone https://github.com/K2SOsint/shit && cd shit
 pip3 install -r requirements.txt
 ```
 ### 👨‍💻 Usage
-Starting the script: ```python3 shiat.py```
+Starting the script: ```python3 shit.py```
 
 Enter the website you want to search when prompted, for example: ```https://k2sosint.com```
 
@@ -27,4 +27,4 @@ This means that ```osint``` will find different results then ```OSINT``` or ```O
 
 ### License
 
-MIT © [shiat](https://github.com/k2sosint/shiat) - by K2SOsint
+MIT © [Shit](https://github.com/k2sosint/Shit) - by K2SOsint
