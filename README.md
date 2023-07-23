@@ -14,11 +14,11 @@ Use this script with regards to the Terms of Service of websites.
 
 ```
 cd Downloads
-git clone https://github.com/K2SOsint/Shit && cd Shit
+git clone https://github.com/K2SOsint/shiat && cd shiat
 pip3 install -r requirements.txt
 ```
 ### 👨‍💻 Usage
-Starting the script: ```python3 shit.py```
+Starting the script: ```python3 shiat.py```
 
 Enter the website you want to search when prompted, for example: ```https://k2sosint.com```
 
