@@ -23,6 +23,7 @@ print("A small script for scraping HTML code from a webpage and saving it\ninto 
 def save_content(filename, content):
     with open(filename, "w", encoding="utf-8") as filehandler:
         filehandler.write(content)
+        filehandler.close()
 
 # Function to collect data from the given URL and handle errors
 def collection(url, filetype):
